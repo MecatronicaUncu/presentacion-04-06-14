@@ -31,21 +31,20 @@ Partes de la presentación:
   
   - Pregunta: Podemos hacerlo?
   
-	MEJORAR
+ *	MEJORAR
   
 	Mostrar lo que se hace en la facu y lo que se hace en Argentina.
 	Robots echos en mendoza
 	Trabajos realizados por los chicos de mecatrónica
 	Impresoras 3D
 	Proyectos finales de estudioGit-logo
-
-	HACER
 	
-2 - Quienes somos?
+ * 	HACERQuienes somos?
+      
       Solo un puñados de buenas intenciones
-  - Quienes no somos ni queremos ser?
+      Quienes no somos ni queremos ser?
 
-3 - Para que sirve - COMPARTIR
+ *	Para que sirve - COMPARTIR
 
       Trabajar con un espíritu profesional, realizar un proyecto que pueda ser continuado por otra persona que no tiene idea de lo q se ha realizado.
       Realizar proyectos
@@ -54,14 +53,13 @@ Partes de la presentación:
       
       Compartir Información
 
-      COLABORAR
+ * 	COLABORAR => 
       
-4 - Qué es lo que tenemos? y sus ventajas?
       Lugar físico
       Página de la organización
       Listas de correos
       Repos GIT
-      qdsqsdq
+
 5 - Qué esperamos?
 
 

@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1386.6127"
-     inkscape:cy="148.25844"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="1112.5006"
+     inkscape:cy="955.82984"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      width="1052.36px"
      inkscape:window-width="1600"
@@ -21619,8 +21619,8 @@
        y="19.205326"
        x="1012.73"
        id="image8212"
-       height="40.451172"
-       width="67.243507" />
+       height="33.219902"
+       width="55.222691" />
     <image
        sodipodi:absref="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Aca/10261979_854464107904525_5203216995707485509_n.jpg"
        xlink:href="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Aca/10261979_854464107904525_5203216995707485509_n.jpg"
@@ -21649,11 +21649,11 @@
     <image
        sodipodi:absref="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Afuera/arenib_delta_vue_generale.jpg"
        xlink:href="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Afuera/arenib_delta_vue_generale.jpg"
-       y="300.39758"
-       x="1070.3381"
+       y="300.64758"
+       x="1058.8381"
        id="image8256"
-       height="71.359718"
-       width="53.533169" />
+       height="68.859718"
+       width="51.6577" />
     <image
        sodipodi:absref="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Afuera/fastest-robot-resized-600.jpg"
        xlink:href="/home/alvaro/Documents/presentacion-MecatronicaUncu/./imgs/mejorar/Afuera/fastest-robot-resized-600.jpg"
@@ -21719,7 +21719,7 @@
        id="podemos"
        style="opacity:0.71774196;fill:#ff0000;fill-opacity:0;stroke:#ff0000;stroke-width:2.81377244;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
-       transform="matrix(0.58800064,0,0,0.59077651,1342.1102,328.78968)"
+       transform="matrix(0.58800064,0,0,0.59077651,1347.7671,393.8435)"
        id="g17871">
       <g
          style="opacity:0.71774196;fill:#ffffff;fill-opacity:1;filter:url(#filter18285)"
@@ -22230,7 +22230,7 @@
     </g>
     <g
        id="g3505"
-       transform="matrix(0.68425808,0,0,-0.68748837,1038.4834,1089.3575)">
+       transform="matrix(0.68425808,0,0,-0.68748837,1044.1403,1154.4113)">
       <g
          id="g368"
          transform="translate(506.8365,292.9166)">
@@ -22534,8 +22534,8 @@
     </g>
     <rect
        inkscape:label="#rect18647"
-       y="773.25824"
-       x="1323.1426"
+       y="838.31207"
+       x="1328.7994"
        height="204.77724"
        width="273.28171"
        id="fin"
@@ -22606,32 +22606,32 @@
     <text
        xml:space="preserve"
        style="font-size:11.53045464px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold"
-       x="1388.6716"
-       y="956.6499"
+       x="1394.3285"
+       y="1021.7037"
        id="text9023"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1388.6716"
-         y="956.6499"
+         x="1394.3285"
+         y="1021.7037"
          id="tspan9027">http://mecatronicauncu.org</tspan></text>
     <image
        width="13.148667"
        height="13.148667"
        xlink:href="data:image/png;base64,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 "
        id="image16051-9"
-       x="1389.4326"
-       y="962.80072" />
+       x="1395.0895"
+       y="1027.8545" />
     <text
        xml:space="preserve"
        style="font-size:11.91895008px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asap;-inkscape-font-specification:Asap Bold"
-       x="1412.1865"
-       y="973.39771"
+       x="1417.8434"
+       y="1038.4515"
        id="text9249"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9251"
-         x="1412.1865"
-         y="973.39771">/mecatronicauncu</tspan></text>
+         x="1417.8434"
+         y="1038.4515">/mecatronicauncu</tspan></text>
   </g>
   <script
      ns1:version="13.11-30213629"
@@ -25454,7 +25454,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Colaborar"
      ns1:title="Colaborar"
-     ns1:sequence="16"
+     ns1:sequence="18"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25476,7 +25476,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="20"
+     ns1:sequence="22"
      ns1:title="Hacer"
      ns1:refid="Hacer" />
   <ns1:frame
@@ -25490,7 +25490,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="26"
+     ns1:sequence="28"
      ns1:title="Compartir"
      ns1:refid="Compartir" />
   <rect
@@ -25512,7 +25512,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="11"
+     ns1:sequence="12"
      ns1:title="Mejorar2"
      ns1:refid="Mejorar2" />
   <rect
@@ -25543,7 +25543,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Hacer2"
      ns1:title="Hacer2"
-     ns1:sequence="21"
+     ns1:sequence="23"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25557,7 +25557,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Colaborar2"
      ns1:title="Colaborar2"
-     ns1:sequence="17"
+     ns1:sequence="19"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25585,7 +25585,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Compartir2"
      ns1:title="Compartir2"
-     ns1:sequence="27"
+     ns1:sequence="29"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25607,7 +25607,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="33"
+     ns1:sequence="35"
      ns1:title="fin"
      ns1:refid="fin" />
   <ns1:frame
@@ -25621,13 +25621,13 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="32"
+     ns1:sequence="34"
      ns1:title="podemos"
      ns1:refid="podemos" />
   <ns1:frame
      ns1:refid="general"
      ns1:title="general"
-     ns1:sequence="34"
+     ns1:sequence="36"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25649,13 +25649,13 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="28"
+     ns1:sequence="30"
      ns1:title="Compartir3"
      ns1:refid="Compartir3" />
   <ns1:frame
      ns1:refid="Compartir4"
      ns1:title="Compartir4"
-     ns1:sequence="29"
+     ns1:sequence="31"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25669,7 +25669,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Compartir6"
      ns1:title="Compartir6"
-     ns1:sequence="31"
+     ns1:sequence="33"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25683,7 +25683,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Compartir5"
      ns1:title="Compartir5"
-     ns1:sequence="30"
+     ns1:sequence="32"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25713,7 +25713,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="22"
+     ns1:sequence="24"
      ns1:title="Hacer3"
      ns1:refid="Hacer3" />
   <ns1:frame
@@ -25727,7 +25727,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="24"
+     ns1:sequence="26"
      ns1:title="Hacer4"
      ns1:refid="Hacer4" />
   <rect
@@ -25741,7 +25741,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Hacer5"
      ns1:title="Hacer5"
-     ns1:sequence="23"
+     ns1:sequence="25"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25771,7 +25771,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="25"
+     ns1:sequence="27"
      ns1:title="Hacer6"
      ns1:refid="Hacer6" />
   <rect
@@ -25801,7 +25801,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="18"
+     ns1:sequence="20"
      ns1:title="Colaborar3"
      ns1:refid="Colaborar3" />
   <ns1:frame
@@ -25815,7 +25815,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="19"
+     ns1:sequence="21"
      ns1:title="Colaborar4"
      ns1:refid="Colaborar4" />
   <rect
@@ -25929,7 +25929,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="8"
+     ns1:sequence="9"
      ns1:title="Mejorar6"
      ns1:refid="Mejorar6" />
   <ns1:frame
@@ -25943,7 +25943,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="9"
+     ns1:sequence="10"
      ns1:title="Mejorar7"
      ns1:refid="Mejorar7" />
   <ns1:frame
@@ -25957,13 +25957,13 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
      ns1:show-in-frame-list="true"
      ns1:clip="true"
      ns1:hide="true"
-     ns1:sequence="10"
+     ns1:sequence="11"
      ns1:title="Mejorar8"
      ns1:refid="Mejorar8" />
   <ns1:frame
      ns1:refid="Mejorar11"
      ns1:title="Mejorar11"
-     ns1:sequence="13"
+     ns1:sequence="15"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25977,7 +25977,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Mejorar12"
      ns1:title="Mejorar12"
-     ns1:sequence="15"
+     ns1:sequence="17"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -25991,7 +25991,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Mejorar9"
      ns1:title="Mejorar9"
-     ns1:sequence="14"
+     ns1:sequence="16"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -26005,7 +26005,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
   <ns1:frame
      ns1:refid="Mejorar10"
      ns1:title="Mejorar10"
-     ns1:sequence="12"
+     ns1:sequence="13"
      ns1:hide="true"
      ns1:clip="true"
      ns1:show-in-frame-list="true"
@@ -26122,4 +26122,80 @@ this.addEventListener(&quot;load&quot;, function () {
 	}				
 }, false);
 </script>
+  <g
+     transform="matrix(0.05066524,0,0,0.05066524,1113.518,448.36204)"
+     id="g13491">
+    <rect
+       style="fill:#aaaaaa;stroke:none"
+       x="0"
+       y="0"
+       width="640"
+       height="480"
+       id="rect13493">
+      <ns1:video
+         ns1:type="video/mp4"
+         ns1:src="./imgs/mejorar/Afuera/robotdelta.mp4" />
+    </rect>
+  </g>
+  <rect
+     inkscape:label="#rect18647"
+     y="447.17361"
+     x="1111.9297"
+     height="26.51565"
+     width="35.553028"
+     id="Mejorar5bis"
+     style="opacity:0.71774196;fill:#ff0000;fill-opacity:0;stroke:#ff0000;stroke-width:0.25592577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <ns1:frame
+     id="frame8936"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="8"
+     ns1:title="Mejorar5bis"
+     ns1:refid="Mejorar5bis" />
+  <ns1:frame
+     ns1:refid="Mejorar10bis"
+     ns1:title="Mejorar10bis"
+     ns1:sequence="14"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:show-in-frame-list="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="linear"
+     ns1:transition-path-hide="true"
+     id="frame1594" />
+  <g
+     id="g24021"
+     transform="matrix(0.03656177,0,0,0.03656177,1057.0037,194.85485)">
+    <rect
+       id="rect24023"
+       height="480"
+       width="640"
+       y="0"
+       x="0"
+       style="fill:#aaaaaa;stroke:none">
+      <ns1:video
+         ns1:stop-frame="frame2554"
+         ns1:start-frame="frame2554"
+         ns1:src="./imgs/mejorar/Aca/quiquitus.mp4"
+         ns1:type="video/mp4" />
+    </rect>
+  </g>
+  <rect
+     inkscape:label="#rect18647"
+     y="193.27118"
+     x="1054.8145"
+     height="20.716984"
+     width="27.77799"
+     id="Mejorar10bis"
+     style="opacity:0.71774196;fill:#ff0000;fill-opacity:0;stroke:#ff0000;stroke-width:0.19995777;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
 </svg>
